@@ -1,0 +1,1 @@
+Use this for Magic AI code contributions towards the SETI Hack-a-thon effort.
